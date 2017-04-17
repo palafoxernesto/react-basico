@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "name": "minimal-react-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --progress --colors --hot --config ./webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL",
+  "description": ""
+}
